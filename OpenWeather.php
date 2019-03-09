@@ -1,5 +1,5 @@
 <html>
-<!-- this is user interface --!>
+//this is user interface 
 	<head>
 	<title>Weather App </title>
 	<style>
